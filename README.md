@@ -29,9 +29,9 @@ const ugurbatuhan = {
 }
 ```
 <div align="center">
-<p>Have a good day!</p>
+<h3>Have a good</h3>
 <div>
-<img src="https://github.com/ugurbatuhan/ugurbatuhan/blob/main/images/world.gif" align="center">
+<img src="https://github.com/ugurbatuhan/ugurbatuhan/blob/main/images/balloon.gif" align="center" width = "200px" height = "200px">
 </div>
 </div>
 
