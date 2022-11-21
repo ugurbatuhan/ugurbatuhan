@@ -26,7 +26,6 @@ const ugurbatuhan = {
   code: [Javascript, HTML, CSS, SQL, Java],
   tools: [React, Node, Vue, Vuex, Vuetify, Nuxt, Heroku, AWS S3, Docker],
   architecture: ["microservices", "microfrontend", "design system pattern"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 <div align="center">
