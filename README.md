@@ -26,6 +26,7 @@ const ugurbatuhan = {
   code: [Javascript, HTML, CSS, SQL, Java],
   tools: [React, Node, Vue, Vuex, Vuetify, Nuxt, Heroku, AWS S3, Docker],
   architecture: ["microservices", "microfrontend", "design system pattern"],
+  learning: [React Native, Next, Typescript]
 }
 ```
 <div align="center">
