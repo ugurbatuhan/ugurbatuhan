@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 
 ```javascript
 const ugurbatuhan = {
-  code: [Javascript, HTML, CSS, SQL, Java],
-  tools: [React.js, React Native, Node.js, Vue.js, Vuex, Redux Toolkit, Vuetify, Nuxt.js, Heroku, AWS S3, Docker],
-  architecture: ["microservices", "microfrontend", "design system pattern"]
+  code: [Javascript, Typescript, SQL],
+  tools: [Nest.js, Express.js, React.js, React Native, Node.js, Vue.js, AWS S3, Docker],
 }
 ```
 <div align="center">
