@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 
 ```javascript
 const ugurbatuhan = {
-  code: [Javascript, Typescript, SQL],
-  tools: [Nest.js, Express.js, React.js, React Native, Node.js, Vue.js, AWS S3, Docker],
+  code: [Javascript, Typescript, SQL, Python],
+  tools: [Node.js, Nest.js, Express.js, React.js, React Native, Docker, Elasticsearch, Kafka],
+  databases: [MongoDB, PostgreSQL, Microsoft SQL Server]
 }
 ```
 <div align="center">
